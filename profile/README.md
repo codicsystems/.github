@@ -10,8 +10,15 @@
 
 <p align="center">
   <a href="https://codicsystems.com">codicsystems.com</a> ·
-  <a href="https://leap.secp.gov.pk/#/verify-company-info/0352637">CUIN 0352637</a> ·
+  CUIN 0352637 ·
+  NTN J778998 ·
   PSEB registered
+</p>
+
+<p align="center">
+  <sub>Verify us on the
+  <a href="https://eservices.secp.gov.pk/eServices/NameSearch.jsp">SECP company register</a>
+  — search <b>CODIC SYSTEMS</b>.</sub>
 </p>
 
 ---
