@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://codicsystems.com/assets/img/logos/logo.png" width="320" alt="Codic Systems">
+  <img src="https://codicsystems.com/assets/img/logos/codic-systems.jpg" width="320" alt="Codic Systems">
 </p>
 
 <p align="center">
